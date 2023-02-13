@@ -1,0 +1,6 @@
+/Users/tanushreedas/Weather/bin/Release/net6.0/publish/Weather
+/Users/tanushreedas/Weather/bin/Release/net6.0/publish/Weather.dll
+/Users/tanushreedas/Weather/bin/Release/net6.0/publish/Weather.deps.json
+/Users/tanushreedas/Weather/bin/Release/net6.0/publish/Weather.runtimeconfig.json
+/Users/tanushreedas/Weather/bin/Release/net6.0/publish/Weather.pdb
+/Users/tanushreedas/Weather/bin/Release/net6.0/publish/Newtonsoft.Json.dll

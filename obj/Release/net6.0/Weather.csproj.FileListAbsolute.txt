@@ -1,0 +1,17 @@
+/Users/tanushreedas/Weather/bin/Release/net6.0/Weather
+/Users/tanushreedas/Weather/bin/Release/net6.0/Weather.deps.json
+/Users/tanushreedas/Weather/bin/Release/net6.0/Weather.runtimeconfig.json
+/Users/tanushreedas/Weather/bin/Release/net6.0/Weather.dll
+/Users/tanushreedas/Weather/bin/Release/net6.0/Weather.pdb
+/Users/tanushreedas/Weather/bin/Release/net6.0/Newtonsoft.Json.dll
+/Users/tanushreedas/Weather/obj/Release/net6.0/Weather.csproj.AssemblyReference.cache
+/Users/tanushreedas/Weather/obj/Release/net6.0/Weather.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanushreedas/Weather/obj/Release/net6.0/Weather.AssemblyInfoInputs.cache
+/Users/tanushreedas/Weather/obj/Release/net6.0/Weather.AssemblyInfo.cs
+/Users/tanushreedas/Weather/obj/Release/net6.0/Weather.csproj.CoreCompileInputs.cache
+/Users/tanushreedas/Weather/obj/Release/net6.0/Weather.csproj.CopyComplete
+/Users/tanushreedas/Weather/obj/Release/net6.0/Weather.dll
+/Users/tanushreedas/Weather/obj/Release/net6.0/refint/Weather.dll
+/Users/tanushreedas/Weather/obj/Release/net6.0/Weather.pdb
+/Users/tanushreedas/Weather/obj/Release/net6.0/Weather.genruntimeconfig.cache
+/Users/tanushreedas/Weather/obj/Release/net6.0/ref/Weather.dll
